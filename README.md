@@ -26,7 +26,7 @@ The books are stored **in-memory** (no database used), making this ideal for lea
 
 ```
 books-api/
-├── server.js       # Main server file with all routes
+├── index.js       # Main server file with all routes
 ├── package.json    # Node project config file
 └── README.md       # Documentation
 ```
@@ -38,8 +38,8 @@ books-api/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/books-api.git
-cd books-api
+git clone https://github.com/karanprajapat824/books_management_backend.git
+cd books_management_backend
 ```
 
 2. **Install dependencies**
